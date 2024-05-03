@@ -1,5 +1,5 @@
 # Image to ASCII art
-Simply convert your image (.png only) into ASCII art
+This simple image converter allows you to create ASCII art from PNG images. It converts a color image to a black and white image, then replaces each pixel with an ASCII character based on its brightness, creating ASCII art.
 
 ## Build
 ```console
